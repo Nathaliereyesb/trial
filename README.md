@@ -1,8 +1,6 @@
 # trial
 First repository
-
-some edit
-additional edit
+Deleting
 We are testing
 and Im creating a second change
 
