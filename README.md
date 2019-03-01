@@ -6,4 +6,6 @@ additional edit
 We are testing
 and Im creating a second change
 
-Third line 
+Third line
+Tracking difference with the text
+having all the information needed
