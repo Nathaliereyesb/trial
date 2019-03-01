@@ -7,3 +7,5 @@ and Im creating a second change
 Third line
 Tracking difference with the text
 having all the information needed
+
+Im editing in the repository for creating conflict 
